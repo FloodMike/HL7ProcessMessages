@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\ProcessMessages.exe.config
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\NLog.config
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\ProcessMessages.exe
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\ProcessMessages.pdb
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\NLog.dll
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\NLog.xml
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Release\ProcessMessages.ProjectInstaller.resources
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Release\ProcessMessages.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Release\ProcessMessages.exe
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Release\ProcessMessages.pdb
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\nunit.framework.dll
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Release\nunit.framework.xml
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Release\ProcessMessages.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Debug\ProcessMessages.exe
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Debug\ProcessMessages.pdb
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Debug\ProcessMessages.exe
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Debug\ProcessMessages.pdb
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Debug\NLog.dll
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Debug\NLog.xml
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Debug\NLog.config
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Debug\ProcessMessages.exe.config
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Debug\ProcessMessages.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Debug\ProcessMessages.ProjectInstaller.resources
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\obj\x86\Debug\ProcessMessages.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Visual Studio\CSharp\ProcessMessages\ProcessMessages\bin\Debug\App.config
